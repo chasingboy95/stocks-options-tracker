@@ -1,4 +1,4 @@
-# Portfolio value calculator
+# Portfolio value calculator (maven version)
 
 ## Description
 1. Get the positions from a mock CSV position file: 
